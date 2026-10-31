@@ -1,0 +1,12 @@
+Metric,Value
+Total Students,395.0
+Total Columns,33.0
+Missing Values,0.0
+Average Final Grade,10.415
+Average Absences,5.709
+Students with Zero Final Grade,38.0
+G1 and G3 Correlation,0.801
+G2 and G3 Correlation,0.905
+Study Time and G3 Correlation,0.098
+Absences and G3 Correlation,0.034
+Gender T-Test P-value,0.039577
